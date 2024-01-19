@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+
+		body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    #skills, #Projects {
+      margin-top: 20px;
+	}
+	img{
+		width: 300px;
+	}	
+</head>
